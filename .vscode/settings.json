@@ -1,0 +1,5 @@
+{
+    "vscode-corda.isCordaProject": false,
+    "deno.enable": true,
+    "deno.unstable": true
+}
